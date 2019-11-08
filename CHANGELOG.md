@@ -11,7 +11,7 @@ project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Added
 
-- Write your awesome addition here (by @you)
+- Allow for conditionally creating the AWS EKS cluster and associated resources via `create_cluster` (by @bmcstdio)
 
 ### Changed
 
